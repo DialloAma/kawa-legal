@@ -1,0 +1,145 @@
+
+
+	.topnav {
+    color: #D14233;
+    padding: 0;
+    min-height: 0;
+    height: 90px;
+    
+}
+.nb > li >.active a{
+	background-color: transparent;
+}
+
+.active a {
+    border: 2px solid #D14233;
+    
+   }
+   .nb .active{
+   	background-color: transparent;
+   }
+a:focus,a:hover{
+	color: #D14233;
+	background-color: transparent;
+
+}
+.nb > li > a:focus, .nb > li > a:hover {
+    text-decoration: none;
+    color: #D14233;
+    background-color: transparent;
+    border: 2px solid #D14233;
+}
+.text {
+    margin-bottom: 40px;
+}
+
+.navbar-default{
+	background-color: transparent;
+   color: #D14233;
+   min-height: 95px;
+  margin-bottom: 0px;
+  border-bottom: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  border-radius: 0px;
+  border:0px;
+}
+.navbar-brand{
+	float: left;
+	padding: 5px;
+	padding-left: 10px;
+
+}
+.navbar-default .nb > li > a{
+	color: #D14233;
+	background-color: transparent;
+	background: transparent;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+  
+.nb{
+	padding-top: 30px;
+
+}
+
+.test > h1{
+	background-color: transparent;
+}
+.jumbotron{
+	color: white;
+	font-size: 15px;
+	margin-top: 10px;
+	background-color: transparent;
+
+}
+
+/*startups*/
+.input-group {
+	margin-top: 15px;
+}
+.btn-default {
+	margin-bottom: 20px;
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+}
+.con{
+	margin-top: 15px;
+}
+.and{
+	margin-top: 15px;
+}
+.think{
+	margin-top: 15px;
+}
+.cube{
+
+	margin-top: 15px;
+}
+.bod{
+	border-bottom: 1px solid silver;
+}
+.footer{
+	background: rgb(59, 12, 12);
+	height: 80px;
+	}
+.foot {
+	font-size: 18px;
+	color: white;
+	padding: 25px 10px;
+
+
+}
+.social{
+	padding: 10px 10px;
+	
+}
+
+.social ul {
+	padding-left: 55%;
+}
+
+.social ul > li {
+	list-style: none;
+	float: left;
+	padding: 10px 15px;
+	font-size: 25px;
+	color: blue;
+	
+}
+
+.social ul > li >  a:hover {
+	color: #fff;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: #D14233;
+    background-color: transparent;
+}
+
+
+
+
+
